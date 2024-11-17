@@ -3,5 +3,5 @@
 
 1. [Miejsca](https://wiki.kaktusowo.online/miejsca)
     - [Diczyny](https://wiki.kaktusowo.online/miejsca/diczyny)
-    - [Ciwinice](https://wiki.kaktusowo.online/miejsca/ciwinice)
+    - [Komuczyny](https://wiki.kaktusowo.online/miejsca/komuczyny)
     - [Kopalnia Stonaris (Kopalnia Szparaga)](https://wiki.kaktusowo.online/miejsca/stonaris) 
