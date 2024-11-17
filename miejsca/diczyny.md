@@ -8,4 +8,4 @@
 </figure>
 
 <br>
-Diczyny to wioska założona przez **Flamusara** aktualnie należąca do **Heckera**. Wioska ta położona jest na południe od [Ciwinic](https://wiki.kaktusowo.online/miejsca/ciwinice). 
+Diczyny to wioska założona przez **Flamusara** aktualnie należąca do **Heckera**. Wioska ta położona jest na południe od [Komuczyn](https://wiki.kaktusowo.online/miejsca/komuczyny). 
