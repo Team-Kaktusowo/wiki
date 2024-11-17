@@ -1,6 +1,11 @@
 
 # Diczyny
 
-![Zdjęcie wioski Diczyny zrobione przez Flamusar](/assets/images/diczyny1.png) 
+<figure>
+    <img src="/assets/images/diczyny1.png"
+         alt="Diczyny">
+    <figcaption>Zdjęcie zrobione przez Flamusara</figcaption>
+</figure>
 
+<br>
 Diczyny to wioska założona przez **Flamusara** aktualnie należąca do **Heckera**. Wioska ta położona jest na południe od [Ciwinic](https://wiki.kaktusowo.online/miejsca/ciwinice). 
