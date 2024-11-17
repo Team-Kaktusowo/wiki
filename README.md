@@ -1,5 +1,7 @@
 Witaj!
 
+**UWAGA WSZYSTKO NA TEJ STRONIE JEST FIKCYJNE I NIE OPOWIADA O REALNYCH ZDARZENIACH**
+
 1. [Strona Główna](https://wiki.kaktusowo.online)
 2. [Miejsca](https://wiki.kaktusowo.online/miejsca)
     - [Diczyny](https://wiki.kaktusowo.online/miejsca/diczyny)
