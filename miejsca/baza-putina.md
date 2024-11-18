@@ -7,8 +7,7 @@
     <figcaption>Wejście do Bazy Putina. Zdjęcie zrobione przez Flamusara.</figcaption>
 </figure>
 
-Baza Putina, położona na wschód od [Diczyn](https://wiki.kaktusowo.online/miejsca/diczyny) baza założona przez **Desziego**. Aktualnie bazę zamieszkują **Deszi, Flamusar i Szparag**.
-Baza ta została zbudowana w opuszczonej kopalni która została rozbudowana i naprawiona.
+Położona na koordynatach ███ ██ ███ baza założona przez **Desizego** na miejscu **opuszczonej kopalni**. Aktualnie zamieszkiwana przez **Desziego, Szparaga, Flamusara i Heckera.**
 
 <figure>
     <img src="/assets/images/putin2.png"
